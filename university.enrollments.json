@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66f1e0942dfb7e4bc34fd7f1"
+  },
+  "student": {
+    "$oid": "66f1d5662dfb7e4bc34fd7c6"
+  },
+  "course": {
+    "$oid": "66f1d77d2dfb7e4bc34fd7cd"
+  },
+  "scores": [
+    {
+      "quiz": {
+        "$oid": "66f1c0cf2dfb7e4bc34fd7c0"
+      },
+      "score": 0,
+      "count": 0
+    },
+    {
+      "quiz": {
+        "$oid": "66f1dbb22dfb7e4bc34fd7d9"
+      },
+      "score": 0,
+      "count": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f1e0942dfb7e4bc34fd7f2"
+  },
+  "student": {
+    "$oid": "66f1d5662dfb7e4bc34fd7ca"
+  },
+  "course": {
+    "$oid": "66f1d77d2dfb7e4bc34fd7cd"
+  },
+  "scores": [
+    {
+      "quiz": {
+        "$oid": "66f1c0cf2dfb7e4bc34fd7c0"
+      },
+      "score": 0,
+      "count": 0
+    },
+    {
+      "quiz": {
+        "$oid": "66f1dbb22dfb7e4bc34fd7d9"
+      },
+      "score": 0,
+      "count": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f1e0942dfb7e4bc34fd7f3"
+  },
+  "student": {
+    "$oid": "66f1d5662dfb7e4bc34fd7c9"
+  },
+  "course": {
+    "$oid": "66f1d77d2dfb7e4bc34fd7cd"
+  },
+  "scores": [
+    {
+      "quiz": {
+        "$oid": "66f1c0cf2dfb7e4bc34fd7c0"
+      },
+      "score": 0,
+      "count": 0
+    },
+    {
+      "quiz": {
+        "$oid": "66f1dbb22dfb7e4bc34fd7d9"
+      },
+      "score": 0,
+      "count": 0
+    }
+  ]
+}]

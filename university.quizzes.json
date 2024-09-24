@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "66f1c0cf2dfb7e4bc34fd7c0"
+  },
+  "name": "JavaScript Basics Quiz",
+  "questions": [
+    {
+      "$oid": "66f1bc122dfb7e4bc34fd7bb"
+    },
+    {
+      "$oid": "66f1bc172dfb7e4bc34fd7bc"
+    },
+    {
+      "$oid": "66f1bc1d2dfb7e4bc34fd7bd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f1dbb22dfb7e4bc34fd7d9"
+  },
+  "name": "Capital",
+  "questions": [
+    {
+      "$oid": "66f1db8f2dfb7e4bc34fd7d5"
+    },
+    {
+      "$oid": "66f1db952dfb7e4bc34fd7d6"
+    },
+    {
+      "$oid": "66f1db992dfb7e4bc34fd7d7"
+    }
+  ]
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66f1df352dfb7e4bc34fd7e8"
+  },
+  "name": "test_course",
+  "teacher": {
+    "$oid": "66f1d77d2dfb7e4bc34fd7cd"
+  },
+  "quizzes": [
+    {
+      "$oid": "66f1c0cf2dfb7e4bc34fd7c0"
+    },
+    {
+      "$oid": "66f1dbb22dfb7e4bc34fd7d9"
+    }
+  ]
+}]

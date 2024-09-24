@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66f1d5662dfb7e4bc34fd7c6"
+  },
+  "name": "Michael Davis",
+  "username": "mic_dav"
+},
+{
+  "_id": {
+    "$oid": "66f1d5662dfb7e4bc34fd7c7"
+  },
+  "name": "John Doe",
+  "username": "john"
+},
+{
+  "_id": {
+    "$oid": "66f1d5662dfb7e4bc34fd7c8"
+  },
+  "name": "Brenda Jenny",
+  "username": "brenda"
+},
+{
+  "_id": {
+    "$oid": "66f1d5662dfb7e4bc34fd7c9"
+  },
+  "name": "Daniel Alvarez",
+  "username": "danimosnter"
+},
+{
+  "_id": {
+    "$oid": "66f1d5662dfb7e4bc34fd7ca"
+  },
+  "name": "Kris Lin",
+  "username": "krlin"
+}]
